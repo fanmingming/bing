@@ -1,10 +1,10 @@
-# 必应每日图片源码
+# Bing每日图片
 
 > 基于Bing每日图片通过php直接输出图片或将输出图片做302跳转的代码 
 
 ## 使用方法
 
- [点此下载](https://github.com/fanmingming/bing/master.zip)后解压，将压缩包的php文件根据您的需要上传到主机，访问即可。
+ [点此下载](https://github.com/fanmingming/bing/archive/master.zip)后解压，根据需要选择压缩包中的php文件上传到您的主机，访问即可。
 
 ## 更新记录
 
